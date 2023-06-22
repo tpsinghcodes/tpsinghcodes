@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @tpsinghcodes
+- 👀 I’m interested in PHP, React, Next.js, and JavaScript and new cutting edge technology for coders!
+- 🌱 I’m currently learning new technology specially AI
